@@ -1,3 +1,3 @@
 # pynet
 PyPlus course
-edit locally
+Edit on GitHub
