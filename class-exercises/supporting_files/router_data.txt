@@ -1,0 +1,23 @@
+hostname = cisco3.lasthop.io
+snmp_port = 161
+ssh_port = 22
+username = user
+password = pass
+
+hostname = cisco4.lasthop.io
+snmp_port = 161
+ssh_port = 22
+username = user
+password = pass
+
+hostname = nxos1.lasthop.io
+ssh_port = 22
+nxapi_port = 8443
+username = user
+password = pass
+
+hostname = nxos2.lasthop.io
+ssh_port = 22
+nxapi_port = 8443
+username = user
+password = pass

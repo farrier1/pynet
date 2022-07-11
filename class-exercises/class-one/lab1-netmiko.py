@@ -3,14 +3,14 @@ from netmiko import ConnectHandler
 nxos1 = {
     "host": "nxos1.lasthop.io",
     "username": "pyclass",
-    "password": "88newclass",
+    "password": "p-word",
     "device_type": "cisco_nxos",
 }
 
 nxos2 = {
     "host": "nxos2.lasthop.io",
     "username": "pyclass",
-    "password": "88newclass",
+    "password": "p-word",
     "device_type": "cisco_nxos",
 }
 

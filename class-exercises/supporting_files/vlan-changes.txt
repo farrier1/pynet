@@ -1,0 +1,10 @@
+vlan 100
+name test-1
+vlan 200
+name test-2
+vlan 201
+name management
+vlan 202
+name ilo
+vlan 203
+name prod
